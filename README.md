@@ -1,2 +1,2 @@
-# Mostra
-Mostra Nacional de Robotica
+# MNR
+mostra nacional de robotica
